@@ -6,7 +6,6 @@ header:
 tags: 
   - sample post
   - images
-  - test
 	- tags
 ---
 
